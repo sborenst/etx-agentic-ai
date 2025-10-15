@@ -1,0 +1,8 @@
+---
+namespace: llama-stack
+
+resources:
+  - ../../base
+
+patches:
+  - path: configmap.yaml
